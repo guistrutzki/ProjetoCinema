@@ -655,3 +655,6 @@ function adicionaFilme(){
         echo "\nNão foi possível adicionar o filme";
     }
 }
+
+echo "teste";
+echo "lalala";
