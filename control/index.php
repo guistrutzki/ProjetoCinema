@@ -656,5 +656,3 @@ function adicionaFilme(){
     }
 }
 
-echo "teste";
-echo "lalala";
