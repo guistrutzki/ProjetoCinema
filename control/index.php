@@ -637,6 +637,8 @@ function alteraFilme(){
     }
 }
 
+echo "teste";
+
 function adicionaFilme(){
     $filme = new Filme();
     global $filmePDO;
